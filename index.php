@@ -1,7 +1,7 @@
 <?php
 	$servername = "localhost";
 	$username = "root";
-	$password = "dmitiot";
+	$password = "password";
 	$dbname = "iotgarbagemonitoring";
 
 	// Create connection
