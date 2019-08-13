@@ -1,7 +1,7 @@
 <?php
 	$servername = "localhost";
 	$username = "root";
-	$password = "password";
+	$password = "dmitiot";
 	$dbname = "iotgarbagemonitoring";
 
 	// Create connection
@@ -34,7 +34,6 @@
 		<title>IOT Garbage Monitoring system</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="refresh" content="5">
 		<link rel="stylesheet" href="bootstrap.min.css">
 		<script src="bootstrap.min.js"></script>
 		<link rel="stylesheet" href="styles.css">
